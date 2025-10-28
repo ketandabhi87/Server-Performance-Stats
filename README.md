@@ -1,5 +1,7 @@
 # 🖥️ Server Stats — Linux Server Performance Analyzer
 
+https://roadmap.sh/projects/server-stats
+
 `server-stats.sh` is a lightweight Bash script that provides a detailed overview of your Linux server’s performance.  
 It displays important metrics like **CPU usage**, **memory usage**, **disk usage**, and the **top processes** consuming system resources.  
 It also includes optional system info such as **OS version**, **uptime**, and **failed login attempts**.
