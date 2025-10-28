@@ -57,7 +57,7 @@ cd server-stats
 
 Or download the script directly:
 
-wget https://raw.githubusercontent.com/yourusername/server-stats/main/server-stats.sh
+wget https://raw.githubusercontent.com/ketandabhi87/Server-Performance-Stats/main/server-stats.sh
 
 2️⃣ Make the Script Executable
 chmod +x server-stats.sh
