@@ -51,8 +51,8 @@ sudo yum install procps-ng coreutils bc util-linux systemd -y
 Follow these steps to set up and execute the script:
 
 1️⃣ Clone or Download the Repository
-git clone https://github.com/yourusername/server-stats.git
-cd server-stats
+git clone https://github.com/ketandabhi87/Server-Performance-Stats
+cd Server-Performance-Stats
 
 
 Or download the script directly:
